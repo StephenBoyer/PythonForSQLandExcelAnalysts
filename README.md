@@ -4,4 +4,5 @@ This project is meant to help analysts comfortable performing data analysis in S
 * [Introduction](Introduction.ipynb)
 * [Methodology](Methodology.ipynb)
 * [Selecting Columns](SelectingColumns.ipynb)
+* [Where Clause](WhereClause.ipynb)
 
